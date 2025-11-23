@@ -1,4 +1,4 @@
-# stream-processing-project
+# Stream processing: First click attribution
 
 This project simulates a **real-time e-commerce use case**: identifying which user clicks led to product purchases (checkouts).  
 
